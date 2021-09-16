@@ -1,2 +1,2 @@
 # pixels
-platform to discover and download high quality images
+Platform to discover and download high quality images
